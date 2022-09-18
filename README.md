@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RaunaqVyas
-- 👀 I’m interested in software and app devlopment 
-- 🌱 I’m currently learning firebase implemntation
+- 👀 I’m interested in software and app devlopment.
+- 🌱 I am currently looking for 2023 software interships, check out some of my projects to learn a bit about my skills.
 - 📫 How to reach me www.linkedin.com/in/raunaq-vyas-0842011b0
 
 <!---
