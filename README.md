@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RaunaqVyas
 - 👀 I’m interested in software and app development.
-- 🌱 I am currently looking for 2024 software internships, check out some of my projects to learn a bit about my skills.
+- 🌱 I am currently looking for 2025 software internships, check out some of my projects to learn a bit about my skills.
 - 📫 How to reach me www.linkedin.com/in/raunaq-vyas-0842011b0
 
 <!---
